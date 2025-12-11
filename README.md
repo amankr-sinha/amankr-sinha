@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @amankr-sinha
-- 👀 I’m interested in Data science and Machine learning
-- 🌱 I’m currently learning ML, Data analysis, languages like SQL, Python, and more
-- 💞️ I’m looking to collaborate on learning ML, DL, and DE tools.
+-👀 I’m interested in Full Stack Development, AI, and Machine Learning
+-🌱 I’m currently learning advanced ML concepts, full-stack development, and core technologies like Python, SQL, React, and Flask/FastAPI
+-💞️ I’m looking to collaborate on AI/ML projects, deep learning, and full-stack application development
+-🎯 I’m aspiring to become an AI Engineer
 - 📫 Reach me at: consciousbeing1008@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: We are sitting on a mud ball in the middle of nowhere and Talking as if We program the Universe, Just chill and Enjoy.
